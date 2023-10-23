@@ -266,4 +266,4 @@ result = agent_executor({"input": "Was ist der Unterschied zwischen einem Data L
 # MAGIC %md
 # MAGIC
 # MAGIC Text: Diese Lösung kann nun z.B. per REST API gehostet werden.
-# MAGIC Oder als MlFlow Python Model? Noch klären...
+
