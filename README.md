@@ -1,4 +1,4 @@
-# Databricks-Tutorials
+# LLM-Tutorials
 
 Dieses Repository enthält Tutorials und Beispiel-Notebooks für LLM-UseCases. Die Tutorials sind auch als Videos auf unserem [YouTube-Kanal](https://www.youtube.com/@datasolut6213) verfügbar. Besuchen Sie auch gerne unsere [Website](https://datasolut.com)!
 
