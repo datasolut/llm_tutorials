@@ -8,7 +8,7 @@ Sie können die Notebooks wie folgt in Databricks importieren:
 
 Um das Git-Repository auf Ihrem lokalen Computer zu klonen, folgen Sie diesen Schritten:
 
-1. Kopieren Sie den Link zum Repository: `https://github.com/datasolut/databricks-tutorials.git`.
+1. Kopieren Sie den Link zum Repository: `https://github.com/datasolut/llm_tutorials.git`.
 2. Gehen Sie zu Databricks und öffnen Sie Ihren Workspace.
 3. Klicken Sie mit der rechten Maustaste und wählen Sie "Import".
 4. Wählen Sie "GitHub" und fügen Sie den zuvor kopierten Link zum Repository ein.
